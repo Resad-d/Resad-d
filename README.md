@@ -12,7 +12,7 @@
   <tr>
     <td align="center">
       <a href="https://roadmap.sh/u/resad">
-        <img src="https://roadmap.sh/card/wide/67df09f98342031660fbb2f5?variant=dark&roadmaps=javascript%2Cnodejs%2Ccyber-security%2Cfull-stack" alt="Roadmap Widget" width="100%">
+        <img src="https://roadmap.sh/card/wide/67df09f98342031660fbb2f5?variant=dark&roadmaps=javascript%2Cnodejs%2Ccyber-security%2Cfull-stack&v=2" alt="Roadmap Widget" width="100%">
       </a>
     </td>
     <td align="center">
