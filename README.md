@@ -17,7 +17,7 @@
     </td>
     <td align="center">
       <a href="https://discord.com/users/615618687470403602">
-        <img src="https://lanyard.cnrad.dev/api/615618687470403602?showDisplayName=false&theme=" alt="Lanyard Widget" width="100%">
+        <img src="https://lanyard.cnrad.dev/api/615618687470403602?theme=dark" alt="Lanyard Widget" width="100%">
       </a>
     </td>
   </tr>
