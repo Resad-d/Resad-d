@@ -7,7 +7,7 @@
 ## Projects
 - [YT Stats Bot](https://discord.com/discovery/applications/896093740987453450) - A Discord bot tracking YouTube stats.
 - [YT Stats Website](https://yt-stats.xyz) - The website and dashboard for my Discord bot.
-- [Simple Particle Game](https://yt-stats.xyz/seeyoutonomore.html) - My first game written in pure Javascript.
+- [Simple Particle Game](https://yt-stats.xyz/seeyoutonomore.html) - My first game written in pure JavaScript.
 
 <table border=0>
   <tr>
