@@ -1,5 +1,5 @@
 ## About
-🔹 **Cybersecurity Student & Hobbyist Developer**  
+🔹 **Cybersecurity & Hobbyist Developer**  
 🔹 Building a Discord Bot & Hacking-inspired Game  
 🔹 Exploring Godot Engine & New Experiences
 
